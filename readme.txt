@@ -1,0 +1,4 @@
+- Ola, usei o framework laravel para criar a minha aplicação, então tem que baixar as depencias dela para poder rodar na sua maquina
+- Tentei ser o mais sucinto dentro do meu conhecimento, a principio consegui realizar tudo que foi solicitado no anunciado.
+- Sei que a vaga é hibrida, moro em outro estado, mesmo assim realizei o teste, caso tenha chance de ser remota, realmente tenho muito interesse na vaga
+- obrigado até aqui.
